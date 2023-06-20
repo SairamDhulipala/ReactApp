@@ -2,4 +2,6 @@ Create a new react app and replace the coresponding components with the ones in 
 
 Install the required modules.
 
-In order to fetch files from minio, replace the "const response" with the minio link to your files
+In order to fetch files from minio, replace the "const response" in src/components/Tnc.js with the minio link to your files.
+
+The markdown files are inside the 'public' folder
