@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './Tnc.css';
 import { useParams, useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import axios from 'axios';
 
 const Tnc = () => {
   const [markdownContent, setMarkdownContent] = useState('');
@@ -11,31 +12,22 @@ const Tnc = () => {
   const agreementName = getAgreementName(mdFile);
 
   useEffect(() => {
-    let markdownFile;
-    if (mdFile === 'a') {
-      markdownFile = '/a.md';
-    } else if (mdFile === 'b') {
-      markdownFile = '/b.md';
-    } else if (mdFile === 'c') {
-      markdownFile = '/c.md';
-    }
+    const fetchMarkdownFile = async () => {
+      try {
+        const response = await axios.get(`http://192.168.56.1:55084/browser/mdfiles/${mdFile}.md`); //replace this with the link to minio
+        setMarkdownContent(response.data);
+      } catch (error) {
+        console.error('Error fetching Markdown file:', error);
+      }
+    };
 
-    if (markdownFile) {
-      fetch(markdownFile)
-        .then((response) => response.text())
-        .then((markdown) => {
-          setMarkdownContent(markdown);
-        })
-        .catch((error) => {
-          console.log('Error fetching Markdown file:', error);
-        });
-    }
+    fetchMarkdownFile();
   }, [mdFile]);
 
   const handleAccept = () => {
     if (accepted) {
       alert(`The agreement for ${agreementName} has been accepted.`);
-      navigate('/welcome'); // Redirect to WelcomePage.js
+      navigate('/welcome'); 
     }
   };
 
