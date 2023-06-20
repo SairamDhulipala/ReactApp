@@ -1,0 +1,5 @@
+Create a new react app and replace the coresponding components with the ones in github.
+
+Install the required modules.
+
+In order to fetch files from minio, replace the "const response" with the minio link to your files
