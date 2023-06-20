@@ -1,0 +1,58 @@
+### _1. Overview_
+
+- The following are the  77terms of an agreement between you and IBM. By accessing or using this website, you acknowledge that you have read, understand, and agree to be bound by these terms and to comply with all applicable laws and regulations, including export and re-export control laws and regulations. If you do not agree to these terms, please do not use this website.
+
+- IBM may, without notice to you, at any time, revise these Terms of Use and any other information contained on this website.
+
+### _2. General_
+
+- This website contains proprietary notices and copyright information, the terms of which must be observed and followed. Please see the tab entitled "Copyright and trademark information" for related information.
+
+- IBM grants you a non-exclusive, non-transferable, limited permission to access and display the web pages within this site as a customer or potential customer of IBM provided you comply with these Terms of Use, and all copyright, trademark, and other proprietary notices remain intact. You may only use a crawler to crawl this website as permitted by this website's robots.txt protocol, and IBM may block any crawlers in its sole discretion. The use authorized under this agreement is non-commercial in nature (e.g., you may not sell the content you access on or through this website.) All other use of this site is prohibited.
+
+- Except for the limited permission in the preceding paragraph, IBM does not grant you any express or implied rights or licenses under any patents, trademarks, copyrights, or other proprietary or intellectual property rights. You may not mirror any of the content from this site on another website or in any other media. Any software and other materials that are made available for downloading, access, or other use from this site with their own license terms will be governed by such terms, conditions, and notices. Your failure to comply with such terms or any of the terms on this site will result in automatic termination of any rights granted to you, without prior notice, and you must immediately destroy all copies of downloaded materials in your possession, custody, or control.
+
+### _3. Rules of Conduct_
+
+- Your use of ibm.com and any related IBM websites (IBM Websites) is subject to all applicable local, state, national, and international laws and regulations, and you agree not to violate such laws and regulations. Any attempt by any person to deliberately damage IBM Websites is a violation of criminal and civil laws. IBM reserves the right to seek damages from any such person to the fullest extent permitted by law.
+
+- You agree not to post or transmit through IBM Websites any material or content that violates or infringes in any way the rights of others or solicits, encourages or promotes the use of illegal substances or activities, which is unlawful, threatening, abusive, harassing, defamatory, libelous, derogatory, invasive of privacy or publicity rights, vulgar, obscene, bigoted or hateful, profane, scandalous, pornographic, indecent or otherwise objectionable, gives rise to civil or criminal liability or otherwise violates any applicable law.
+
+- You may not impersonate another user, use another user's IBMid, permit someone else to use your IBMid, attempt to capture or guess other users' passwords, forge headers, or otherwise manipulate identifiers for the purpose of disguising the origin of any content you transmit, conduct fraudulent business operations or practices, or promote or conceal unlawful conduct.
+
+- You may not engage in any activity on IBM Websites which restrict or inhibit any other user from using or enjoying IBM Websites by "hacking," "cracking," "spoofing," or defacing any portions of IBM Websites. You may not use IBM Websites to stalk or harass another person or entity.
+
+- You may not post or transmit through IBM Websites advertising or commercial solicitations; promotional materials relating to website or online services which are competitive with IBM and/or IBM Websites; software or other materials that contain viruses, worms, time bombs, Trojan horses, or other harmful or disruptive components, political campaign materials; chain letters; mass mailings, spam mail, any robot, spider, site search/retrieval application, or other manual or automatic device or process to retrieve, index, “data mine,” or in any way reproduce or circumvent the navigational structure or presentation of IBM Websites or contents. You may not harvest or collect information about website visitors without their express written consent.
+
+### _4. Disclaimer_
+
+- From time to time, this Web site may contain technical inaccuracies or typographical errors, and we do not warrant the accuracy of any posted information. Please confirm you are using the most up-to-date pages on this Web site, and confirm the accuracy and completeness of information before using it to make decisions relating to services, products, or other matters described in this Web site.
+
+- If any term in this Terms of Use is found by competent judicial authority to be unenforceable in any respect, the validity of the remainder of this Terms of Use will be unaffected, provided that such unenforceability does not materially affect the parties’ rights under this Terms of Use.
+
+### _5. Forward-looking and cautionary statements_
+
+- Except for historical information and discussions, statements set forth throughout this web site may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 or other applicable laws. These statements involve a number of risks, uncertainties, and other factors that could cause actual results to differ materially, as discussed in the company's filings with the U.S. Securities and Exchange Commission. See the “SEC filings” tab under “Investor relations” on this Web site for copies of such filings.
+
+### _6. Confidential information_
+- IBM does not want to receive confidential or proprietary information from you through our Web site. Please note that any information or material sent to IBM will be deemed NOT to be confidential. By sending IBM any information or material, you grant IBM an unrestricted, irrevocable license to copy, reproduce, publish, upload, post, transmit, distribute, publicly display, perform, modify, create derivative works from, and otherwise freely use, those materials or information. You also agree that IBM is free to use any ideas, concepts, know-how, or techniques that you send us for any purpose. However, we will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) we obtain your permission to use your name; or (b) we first notify you that the materials or other information you submit to a particular part of this site will be published or otherwise used with your name on it; or (c) we are required to do so by law. Personally-identifiable information that you submit to IBM for the purpose of receiving products or services will be handled in accordance with our privacy policies. Please see the tab entitled “Privacy” for information regarding IBM’s privacy policies.
+
+### _7. U.S. government restricted rights_
+- IBM provides the software downloaded from this Web site to U.S. Government users with “RESTRICTED RIGHTS." Use, reproduction, or disclosure is subject to the restrictions set forth in IBM’s GSA ADP Schedule contract.
+
+### _8. Global availability_
+- Information IBM publishes on the Internet may contain references or cross references to IBM products, programs and services that are not announced or available in your country. Such references do not imply that IBM intends to announce or make available such products, programs, or services in your country. Please consult your local IBM business contact for information regarding the products, programs, and services that may be available to you.
+
+### _9. Business relationships_
+- This Web site may provide links or references to non-IBM Web sites and resources. IBM makes no representations, warranties, or other commitments or endorsements whatsoever about any non-IBM Web sites or third-party resources (including any Lenovo Web site) that may be referenced, accessible from, or linked to any IBM site. In addition, IBM is not a party to or responsible for any transactions you may enter into with third parties, even if you learn of such parties (or use a link to such parties) from an IBM site. When you access a non-IBM Web site, even one that may contain the IBM-logo, please understand that it is independent from IBM, and that IBM does not control the content on that Web site. It is up to you to take precautions to protect yourself from viruses, worms, Trojan horses, and other potentially destructive programs, and to protect your information.
+
+### _10. Linking to this site_
+- IBM consents only to links to this Web site in which the link and the pages that are activated by the link do not: (a) create frames around any page on this Web site or use other techniques that alter in any way the visual presentation or appearance of any content within this site; (b) misrepresent your relationship with IBM; (c) imply that IBM approves or endorses you, your Web site, or your service or product offerings; and (d) present false or misleading impressions about IBM or otherwise damage the goodwill associated with the IBM name or trademarks. As a further condition to being permitted to link to this site, you agree that IBM may at any time, in its sole discretion, terminate permission to link to this Web site. In such event, you agree to immediately remove all links to this Web site and to cease any related use of IBM trademarks.
+
+### _11. Disclaimer of warranty_
+- Use of this site is at your sole risk. all materials, information, products, software, programs, and services are provided "as is," with no warranties or guarantees whatsoever. ibm expressly disclaims to the fullest extent permitted by law all express, implied, statutory, and other warranties, guarantees, or representations, including, without limitation, the warranties of merchantability, fitness for a particular purpose, and non-infringement of proprietary and intellectual property rights. without limitation, ibm makes no warranty or guarantee that this web site will be uninterrupted, timely, secure, or error-free.
+
+### _12. Limitation of liability_
+- To the fullest extent permitted by applicable law, in no event will ibm be liable to any party for any direct, indirect, incidental, special, exemplary or consequential damages of any type whatsoever related to or arising from this web site or any use of this web site, or of any site or resource linked to, referenced, or accessed through this web site, or for the use or downloading of, or access to, any materials, information, products, or services, including, without limitation, any lost profits, business interruption, lost savings or loss of programs or other data, even if ibm is expressly advised of the possibility of such damages. this exclusion and waiver of liability applies to all causes of action, whether based on contract, warranty, tort, or any other legal theories.
+
+#### *YOU UNDERSTAND AND AGREE THAT IF YOU DOWNLOAD OR OTHERWISE OBTAIN MATERIALS, INFORMATION, PRODUCTS, SOFTWARE, PROGRAMS, OR SERVICES FROM THIS WEB SITE, YOU DO SO AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGES THAT MAY RESULT, INCLUDING LOSS OF DATA OR DAMAGE TO YOUR COMPUTER SYSTEM. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.*

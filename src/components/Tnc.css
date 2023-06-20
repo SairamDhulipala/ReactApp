@@ -1,0 +1,91 @@
+body {
+    animation: fade-in-animation 0.87s ease-in forwards;
+    opacity: 0;
+  }
+  
+  @keyframes fade-in-animation {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+      h1{
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
+        text-align: center;
+        background-color: #9A7B4F;
+        color: aliceblue;
+        font-style: italic;
+        font-family: 'Times';
+        text-shadow: 2px 2px 8px #000000;
+        box-shadow: 2px 2px 8px #000000;
+      }
+      
+      .Read{
+        color:rgba(65, 62, 15, 0.533);
+        font-style:italic;
+        font-size: 22px;
+      }
+  
+      body {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 10px;
+        text-align: left;
+        background-image: url('https://marketingaccesspass.com/wp-content/uploads/2021/09/What-Color-is-Bisque.jpg');
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-attachment: fixed;
+        color: rgba(95, 84, 40, 0.625);
+        overscroll-behavior: none;
+      }
+  
+      button{
+        background-color: antiquewhite;
+        border-radius: 8px;
+        cursor: pointer;
+        padding: 10px 10px;
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-bottom: 10px;
+        box-shadow: 2px 2px 8px #000000;
+      }
+  
+      .button-alignment {
+        display: flex;
+        justify-content: center;
+      } 
+  
+      .format{
+        font-size: large;
+        font-style: oblique;
+      }
+    
+
+      .markdown{
+        border: 1px solid saddlebrown;
+        border-radius: 8px;
+        padding: 10px;
+        background-color: rgba(242, 240, 255, 0.533);
+        box-shadow: 2px 2px 8px #000000c5;
+      }
+      
+
+      .checkbox-container {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      
+      .button-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+      }

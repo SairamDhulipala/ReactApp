@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+
+.login-page-body {
+  animation: fade-in-animation 0.87s ease-in forwards;
+  opacity: 0;
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 150px;
+  background-image: url('https://marketingaccesspass.com/wp-content/uploads/2021/09/What-Color-is-Bisque.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+@keyframes fade-in-animation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.login-title {
+  padding-left: 50px;
+  padding-top: 10px;
+  text-align: left;
+  padding-bottom: 20px;
+  border-bottom: 2px solid rgb(100, 50, 50);
+  text-shadow: 2px 2px 8px #3e3102c8;
+}
+
+.border.login-page {
+  margin-top: -30px;
+  border: 1px solid saddlebrown;
+  border-radius: 8px;
+  border-width: 2px;
+  background: peachpuff;
+  box-shadow: 2px 2px 8px #000000fa;
+}
+
+h4 {
+  padding-right: 140px;
+}
+
+.login-input {
+  background: none;
+  border: none;
+  width: 100%;
+  outline: none;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #adadad;
+}
+
+.buttonsalign.login-input-group {
+  position: relative;
+  margin-right: 100px;
+}
+
+.btn.login-button {
+  color: bisque;
+  background-color: #927b078b;
+  border-radius: 80px;
+  margin-top: 20px;
+  align-items: center;
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+}
+
+h4:last-child {
+  margin-bottom: 0;
+}
+
+.register-link {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #000;
+}

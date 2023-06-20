@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+
+body.register-body {
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 100px;
+  background-image: url('https://marketingaccesspass.com/wp-content/uploads/2021/09/What-Color-is-Bisque.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.border {
+  margin-top: -20px;
+  border: 1px solid saddlebrown;
+  border-radius: 8px;
+  border-width: 2px;
+  background: peachpuff;
+  box-shadow: 2px 2px 8px #000000fa;
+}
+
+h2.login {
+  padding-left: 50px;
+  padding-top: 10px;
+  text-align: left;
+  padding-bottom: 20px;
+  border-bottom: 2px solid rgb(100, 50, 50);
+  text-shadow: 2px 2px 8px #3e3102c8;
+}
+
+h4 {
+  padding-right: 140px;
+}
+
+.usernamebox,
+.namebox,
+.ebox {
+  background: none;
+  border: none;
+  width: 100%;
+  outline: none;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #adadad;
+}
+
+.buttonsalign {
+  position: relative;
+  margin-right: 100px;
+}
+
+.rads {
+  margin: 10px;
+  margin-left: 80px;
+  cursor: pointer;
+  margin-right: 40px;
+}
+
+.btn.register-button {
+  color: bisque;
+  background-color: #927b078b;
+  border-radius: 80px;
+  margin-top: 20px;
+  align-items: center;
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+b {
+  display: block;
+}
+
+.login-link {
+  color: #0000ff;
+  text-decoration: underline;
+  cursor: pointer;
+}
